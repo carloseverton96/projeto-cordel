@@ -58,6 +58,8 @@ section.imagem{
     color: white;
     background-size: cover;
 background-attachment: fixed;
+padding-left: 30px;
+padding-right: 410px;
 }
     
 section > p{
